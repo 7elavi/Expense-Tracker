@@ -1,0 +1,1 @@
+# Стандартные библиотеки Python (tkinter, json, datetime) не требуют установки через pip
